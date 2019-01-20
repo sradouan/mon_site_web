@@ -1,2 +1,4 @@
-tmp/*.*
-*.doc
+tmp/*.txt
+tmp/*.doc
+tmp/*.xml
+
